@@ -1,0 +1,2121 @@
+{
+  "MediaLibrary": {
+    "vid001": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+    "vid002": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+    "vid003": "https://video.wixstatic.com/video/e7a339_388c0c67bc074747bfabc30ef27858c5/1080p/mp4/file.mp4",
+    "vid004": "https://video.wixstatic.com/video/e7a339_843848e1def34035bd4fb806c580be75/1080p/mp4/file.mp4",
+    "vid005": "https://video.wixstatic.com/video/e7a339_baecdc126eda4b6a97649e613266c938/1080p/mp4/file.mp4",
+    "vid006": "https://video.wixstatic.com/video/e7a339_234c4f6ce5564de5a698412c1295a7e6/1080p/mp4/file.mp4",
+    "vid007": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
+    "vid008": "https://video.wixstatic.com/video/e7a339_2ab0d9860fa8455d885cf1e0ef34ff4f/1080p/mp4/file.mp4",
+    "vid009": "https://video.wixstatic.com/video/e7a339_050f4f56bc724bc3921c3a4755ff9b0a/1080p/mp4/file.mp4",
+    "vid010": "https://video.wixstatic.com/video/e7a339_0999e92ee65640148fa658a458f2d1d3/1080p/mp4/file.mp4",
+    "img001": "https://example.com/static_adboard_image.png"
+  },
+  "AdUnits": [
+    {
+      "Id": 1,
+      "Ads": [
+        {
+          "AdId": 101,
+          "MediaRef": "vid005",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        },
+        {
+          "AdId": 102,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 13,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 103,
+          "MediaRef": "vid010",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 13,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Ads": [
+        {
+          "AdId": 201,
+          "MediaRef": "vid005",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 202,
+          "MediaRef": "vid006",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 17,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 203,
+          "MediaRef": "vid002",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Ads": [
+        {
+          "AdId": 301,
+          "MediaRef": "vid008",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 302,
+          "MediaRef": "vid002",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 10,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 303,
+          "MediaRef": "vid009",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 16,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Ads": [
+        {
+          "AdId": 401,
+          "MediaRef": "vid010",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 10,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 402,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 403,
+          "MediaRef": "vid010",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 10,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "Ads": [
+        {
+          "AdId": 501,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        },
+        {
+          "AdId": 502,
+          "MediaRef": "vid005",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        },
+        {
+          "AdId": 503,
+          "MediaRef": "vid001",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 11,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        }
+      ]
+    },
+    {
+      "Id": 6,
+      "Ads": [
+        {
+          "AdId": 601,
+          "MediaRef": "vid002",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 12,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 602,
+          "MediaRef": "vid008",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 603,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 16,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        }
+      ]
+    },
+    {
+      "Id": 7,
+      "Ads": [
+        {
+          "AdId": 701,
+          "MediaRef": "vid006",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 10,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 702,
+          "MediaRef": "vid009",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 20,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        },
+        {
+          "AdId": 703,
+          "MediaRef": "vid009",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 20,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        }
+      ]
+    },
+    {
+      "Id": 8,
+      "Ads": [
+        {
+          "AdId": 801,
+          "MediaRef": "vid008",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 17,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 802,
+          "MediaRef": "vid006",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 14,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 803,
+          "MediaRef": "vid004",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 14,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        }
+      ]
+    },
+    {
+      "Id": 9,
+      "Ads": [
+        {
+          "AdId": 901,
+          "MediaRef": "vid009",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 20,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 902,
+          "MediaRef": "vid007",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 903,
+          "MediaRef": "vid005",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 17,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        }
+      ]
+    },
+    {
+      "Id": 10,
+      "Ads": [
+        {
+          "AdId": 1001,
+          "MediaRef": "vid002",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 17,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 1002,
+          "MediaRef": "vid010",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 12,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 1003,
+          "MediaRef": "vid009",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 11,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        }
+      ]
+    },
+    {
+      "Id": 11,
+      "Ads": [
+        {
+          "AdId": 1101,
+          "MediaRef": "vid005",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 20,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 1102,
+          "MediaRef": "vid009",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 17,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 1103,
+          "MediaRef": "vid001",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 20,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        }
+      ]
+    },
+    {
+      "Id": 12,
+      "Ads": [
+        {
+          "AdId": 1201,
+          "MediaRef": "vid010",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 1202,
+          "MediaRef": "vid004",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 13,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 1203,
+          "MediaRef": "vid007",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 13,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        }
+      ]
+    },
+    {
+      "Id": 13,
+      "Ads": [
+        {
+          "AdId": 1301,
+          "MediaRef": "vid010",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 19,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 1302,
+          "MediaRef": "vid008",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 12,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 1303,
+          "MediaRef": "vid008",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 13,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        }
+      ]
+    },
+    {
+      "Id": 14,
+      "Ads": [
+        {
+          "AdId": 1401,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 10,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 1402,
+          "MediaRef": "vid010",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 10,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 1403,
+          "MediaRef": "vid001",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 11,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        }
+      ]
+    },
+    {
+      "Id": 15,
+      "Ads": [
+        {
+          "AdId": 1501,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 16,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 1502,
+          "MediaRef": "vid001",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 1503,
+          "MediaRef": "vid006",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        }
+      ]
+    },
+    {
+      "Id": 16,
+      "Ads": [
+        {
+          "AdId": 1601,
+          "MediaRef": "vid001",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 10,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 1602,
+          "MediaRef": "vid009",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 19,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        },
+        {
+          "AdId": 1603,
+          "MediaRef": "vid007",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        }
+      ]
+    },
+    {
+      "Id": 17,
+      "Ads": [
+        {
+          "AdId": 1701,
+          "MediaRef": "vid009",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 1702,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 19,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        },
+        {
+          "AdId": 1703,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 20,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        }
+      ]
+    },
+    {
+      "Id": 18,
+      "Ads": [
+        {
+          "AdId": 1801,
+          "MediaRef": "vid005",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 12,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 1802,
+          "MediaRef": "vid008",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 20,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 1803,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 10,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        }
+      ]
+    },
+    {
+      "Id": 19,
+      "Ads": [
+        {
+          "AdId": 1901,
+          "MediaRef": "vid010",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 17,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 1902,
+          "MediaRef": "vid009",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 10,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 1903,
+          "MediaRef": "vid001",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 16,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        }
+      ]
+    },
+    {
+      "Id": 20,
+      "Ads": [
+        {
+          "AdId": 2001,
+          "MediaRef": "vid005",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 2002,
+          "MediaRef": "vid004",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 16,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 2003,
+          "MediaRef": "vid005",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 10,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        }
+      ]
+    },
+    {
+      "Id": 21,
+      "Ads": [
+        {
+          "AdId": 2101,
+          "MediaRef": "vid001",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 16,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 2102,
+          "MediaRef": "vid010",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 19,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 2103,
+          "MediaRef": "vid002",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 14,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        }
+      ]
+    },
+    {
+      "Id": 22,
+      "Ads": [
+        {
+          "AdId": 2201,
+          "MediaRef": "vid007",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 13,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 2202,
+          "MediaRef": "vid010",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        },
+        {
+          "AdId": 2203,
+          "MediaRef": "vid007",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        }
+      ]
+    },
+    {
+      "Id": 23,
+      "Ads": [
+        {
+          "AdId": 2301,
+          "MediaRef": "vid007",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 13,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 2302,
+          "MediaRef": "vid006",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 14,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 2303,
+          "MediaRef": "vid007",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 13,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        }
+      ]
+    },
+    {
+      "Id": 24,
+      "Ads": [
+        {
+          "AdId": 2401,
+          "MediaRef": "img001",
+          "AdTypeId": 0,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        }
+      ]
+    },
+    {
+      "Id": 25,
+      "Ads": [
+        {
+          "AdId": 2501,
+          "MediaRef": "vid002",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 20,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 2502,
+          "MediaRef": "vid010",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 14,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 2503,
+          "MediaRef": "vid010",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 12,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        }
+      ]
+    },
+    {
+      "Id": 26,
+      "Ads": [
+        {
+          "AdId": 2601,
+          "MediaRef": "vid001",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 12,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 2602,
+          "MediaRef": "vid006",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 2603,
+          "MediaRef": "vid005",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        }
+      ]
+    },
+    {
+      "Id": 27,
+      "Ads": [
+        {
+          "AdId": 2701,
+          "MediaRef": "vid006",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 14,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 2702,
+          "MediaRef": "vid002",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 10,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 2703,
+          "MediaRef": "vid009",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 11,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        }
+      ]
+    },
+    {
+      "Id": 28,
+      "Ads": [
+        {
+          "AdId": 2801,
+          "MediaRef": "vid010",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 2802,
+          "MediaRef": "vid002",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 10,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        },
+        {
+          "AdId": 2803,
+          "MediaRef": "vid007",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Ads": [
+        {
+          "AdId": 2901,
+          "MediaRef": "vid008",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 10,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 2902,
+          "MediaRef": "vid001",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 11,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 2903,
+          "MediaRef": "vid005",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        }
+      ]
+    },
+    {
+      "Id": 30,
+      "Ads": [
+        {
+          "AdId": 3001,
+          "MediaRef": "vid009",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 3002,
+          "MediaRef": "vid007",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 16,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 3003,
+          "MediaRef": "vid009",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        }
+      ]
+    },
+    {
+      "Id": 31,
+      "Ads": [
+        {
+          "AdId": 3101,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 14,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        },
+        {
+          "AdId": 3102,
+          "MediaRef": "vid006",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 19,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 3103,
+          "MediaRef": "vid002",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 14,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        }
+      ]
+    },
+    {
+      "Id": 32,
+      "Ads": [
+        {
+          "AdId": 3201,
+          "MediaRef": "vid010",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 3202,
+          "MediaRef": "vid008",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 13,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 3203,
+          "MediaRef": "vid007",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 10,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        }
+      ]
+    },
+    {
+      "Id": 33,
+      "Ads": [
+        {
+          "AdId": 3301,
+          "MediaRef": "img001",
+          "AdTypeId": 0,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        }
+      ]
+    },
+    {
+      "Id": 34,
+      "Ads": [
+        {
+          "AdId": 3401,
+          "MediaRef": "vid005",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 11,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 3402,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 12,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 3403,
+          "MediaRef": "vid004",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 10,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        }
+      ]
+    },
+    {
+      "Id": 35,
+      "Ads": [
+        {
+          "AdId": 3501,
+          "MediaRef": "vid007",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 11,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 3502,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 12,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 3503,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        }
+      ]
+    },
+    {
+      "Id": 36,
+      "Ads": [
+        {
+          "AdId": 3601,
+          "MediaRef": "vid009",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 3602,
+          "MediaRef": "vid004",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 20,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 3603,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 10,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        }
+      ]
+    },
+    {
+      "Id": 37,
+      "Ads": [
+        {
+          "AdId": 3701,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 3702,
+          "MediaRef": "vid008",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 12,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 3703,
+          "MediaRef": "vid008",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        }
+      ]
+    },
+    {
+      "Id": 38,
+      "Ads": [
+        {
+          "AdId": 3801,
+          "MediaRef": "img001",
+          "AdTypeId": 0,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        }
+      ]
+    },
+    {
+      "Id": 39,
+      "Ads": [
+        {
+          "AdId": 3901,
+          "MediaRef": "vid005",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 11,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 3902,
+          "MediaRef": "vid010",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 12,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        },
+        {
+          "AdId": 3903,
+          "MediaRef": "vid007",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 17,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        }
+      ]
+    },
+    {
+      "Id": 40,
+      "Ads": [
+        {
+          "AdId": 4001,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 12,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 4002,
+          "MediaRef": "vid001",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 4003,
+          "MediaRef": "vid009",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 13,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        }
+      ]
+    },
+    {
+      "Id": 41,
+      "Ads": [
+        {
+          "AdId": 4101,
+          "MediaRef": "vid006",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 10,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 4102,
+          "MediaRef": "vid002",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 10,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 4103,
+          "MediaRef": "vid007",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 11,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        }
+      ]
+    },
+    {
+      "Id": 42,
+      "Ads": [
+        {
+          "AdId": 4201,
+          "MediaRef": "vid007",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 20,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 4202,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 11,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 4203,
+          "MediaRef": "vid010",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 20,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        }
+      ]
+    },
+    {
+      "Id": 43,
+      "Ads": [
+        {
+          "AdId": 4301,
+          "MediaRef": "vid005",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 4302,
+          "MediaRef": "vid010",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 13,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 4303,
+          "MediaRef": "vid001",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 14,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        }
+      ]
+    },
+    {
+      "Id": 44,
+      "Ads": [
+        {
+          "AdId": 4401,
+          "MediaRef": "vid005",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 20,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 4402,
+          "MediaRef": "vid006",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 4403,
+          "MediaRef": "vid009",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 19,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        }
+      ]
+    },
+    {
+      "Id": 45,
+      "Ads": [
+        {
+          "AdId": 4501,
+          "MediaRef": "vid005",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 12,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 4502,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 4503,
+          "MediaRef": "vid005",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        }
+      ]
+    },
+    {
+      "Id": 46,
+      "Ads": [
+        {
+          "AdId": 4601,
+          "MediaRef": "vid001",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 19,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 4602,
+          "MediaRef": "vid001",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 19,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 4603,
+          "MediaRef": "vid005",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 11,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        }
+      ]
+    },
+    {
+      "Id": 47,
+      "Ads": [
+        {
+          "AdId": 4701,
+          "MediaRef": "vid006",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 20,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 4702,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 20,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        },
+        {
+          "AdId": 4703,
+          "MediaRef": "vid008",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 14,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        }
+      ]
+    },
+    {
+      "Id": 48,
+      "Ads": [
+        {
+          "AdId": 4801,
+          "MediaRef": "vid009",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 4802,
+          "MediaRef": "vid007",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 17,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 4803,
+          "MediaRef": "vid009",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 10,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        }
+      ]
+    },
+    {
+      "Id": 49,
+      "Ads": [
+        {
+          "AdId": 4901,
+          "MediaRef": "vid010",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 19,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 4902,
+          "MediaRef": "vid001",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 12,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 4903,
+          "MediaRef": "vid006",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 12,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        }
+      ]
+    },
+    {
+      "Id": 50,
+      "Ads": [
+        {
+          "AdId": 5001,
+          "MediaRef": "vid007",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 12,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 5002,
+          "MediaRef": "vid001",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 17,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 5003,
+          "MediaRef": "vid008",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 20,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        }
+      ]
+    },
+    {
+      "Id": 51,
+      "Ads": [
+        {
+          "AdId": 5101,
+          "MediaRef": "vid005",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 13,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 5102,
+          "MediaRef": "vid008",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 5103,
+          "MediaRef": "vid001",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 17,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        }
+      ]
+    },
+    {
+      "Id": 52,
+      "Ads": [
+        {
+          "AdId": 5201,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 16,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 5202,
+          "MediaRef": "vid005",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 13,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 5203,
+          "MediaRef": "vid002",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        }
+      ]
+    },
+    {
+      "Id": 53,
+      "Ads": [
+        {
+          "AdId": 5301,
+          "MediaRef": "vid002",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 17,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 5302,
+          "MediaRef": "vid007",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 17,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 5303,
+          "MediaRef": "vid006",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        }
+      ]
+    },
+    {
+      "Id": 54,
+      "Ads": [
+        {
+          "AdId": 5401,
+          "MediaRef": "vid008",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 11,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        },
+        {
+          "AdId": 5402,
+          "MediaRef": "vid010",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 5403,
+          "MediaRef": "vid005",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 11,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        }
+      ]
+    },
+    {
+      "Id": 55,
+      "Ads": [
+        {
+          "AdId": 5501,
+          "MediaRef": "vid006",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 11,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        },
+        {
+          "AdId": 5502,
+          "MediaRef": "vid002",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 20,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 5503,
+          "MediaRef": "vid006",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 13,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        }
+      ]
+    },
+    {
+      "Id": 56,
+      "Ads": [
+        {
+          "AdId": 5601,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 13,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 5602,
+          "MediaRef": "vid004",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 17,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 5603,
+          "MediaRef": "vid009",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 20,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        }
+      ]
+    },
+    {
+      "Id": 57,
+      "Ads": [
+        {
+          "AdId": 5701,
+          "MediaRef": "vid002",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 16,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 5702,
+          "MediaRef": "vid009",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 12,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        },
+        {
+          "AdId": 5703,
+          "MediaRef": "vid009",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 14,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        }
+      ]
+    },
+    {
+      "Id": 58,
+      "Ads": [
+        {
+          "AdId": 5801,
+          "MediaRef": "vid007",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 12,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 5802,
+          "MediaRef": "vid010",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 14,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 5803,
+          "MediaRef": "vid005",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        }
+      ]
+    },
+    {
+      "Id": 59,
+      "Ads": [
+        {
+          "AdId": 5901,
+          "MediaRef": "vid002",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 16,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 5902,
+          "MediaRef": "vid009",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 14,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 5903,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        }
+      ]
+    },
+    {
+      "Id": 60,
+      "Ads": [
+        {
+          "AdId": 6001,
+          "MediaRef": "vid009",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 17,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 6002,
+          "MediaRef": "vid002",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 14,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        },
+        {
+          "AdId": 6003,
+          "MediaRef": "vid001",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 10,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        }
+      ]
+    },
+    {
+      "Id": 61,
+      "Ads": [
+        {
+          "AdId": 6101,
+          "MediaRef": "vid010",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 14,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 6102,
+          "MediaRef": "vid001",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 6103,
+          "MediaRef": "vid005",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 14,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Ads": [
+        {
+          "AdId": 6201,
+          "MediaRef": "vid004",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 17,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 6202,
+          "MediaRef": "vid006",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 19,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 6203,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 11,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        }
+      ]
+    },
+    {
+      "Id": 63,
+      "Ads": [
+        {
+          "AdId": 6301,
+          "MediaRef": "vid006",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 12,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 6302,
+          "MediaRef": "vid004",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 6303,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 13,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        }
+      ]
+    },
+    {
+      "Id": 64,
+      "Ads": [
+        {
+          "AdId": 6401,
+          "MediaRef": "vid005",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 6402,
+          "MediaRef": "vid001",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 10,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 6403,
+          "MediaRef": "vid006",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 16,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        }
+      ]
+    },
+    {
+      "Id": 65,
+      "Ads": [
+        {
+          "AdId": 6501,
+          "MediaRef": "vid008",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 10,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 6502,
+          "MediaRef": "vid004",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 12,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 3
+        },
+        {
+          "AdId": 6503,
+          "MediaRef": "vid006",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 14,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        }
+      ]
+    },
+    {
+      "Id": 66,
+      "Ads": [
+        {
+          "AdId": 6601,
+          "MediaRef": "vid004",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        },
+        {
+          "AdId": 6602,
+          "MediaRef": "vid010",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        },
+        {
+          "AdId": 6603,
+          "MediaRef": "vid001",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 18,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        }
+      ]
+    },
+    {
+      "Id": 67,
+      "Ads": [
+        {
+          "AdId": 6701,
+          "MediaRef": "img001",
+          "AdTypeId": 0,
+          "DurationToBePlayed": 15,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 1
+        }
+      ]
+    },
+    {
+      "Id": 68,
+      "Ads": [
+        {
+          "AdId": 6801,
+          "MediaRef": "vid009",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 12,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 5
+        },
+        {
+          "AdId": 6802,
+          "MediaRef": "vid010",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 16,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 2
+        },
+        {
+          "AdId": 6803,
+          "MediaRef": "vid003",
+          "AdTypeId": 1,
+          "DurationToBePlayed": 20,
+          "StartTime": "2025-05-22T00:00:00",
+          "EndTime": "2026-12-31T23:59:59",
+          "Priority": 4
+        }
+      ]
+    }
+  ]
+}
