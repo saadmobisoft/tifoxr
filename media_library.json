@@ -1,0 +1,46 @@
+[
+  {
+    "Key": "vid001",
+    "Url": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4"
+  },
+  {
+    "Key": "vid002",
+    "Url": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4"
+  },
+  {
+    "Key": "vid003",
+    "Url": "https://video.wixstatic.com/video/e7a339_388c0c67bc074747bfabc30ef27858c5/1080p/mp4/file.mp4"
+  },
+  {
+    "Key": "vid004",
+    "Url": "https://video.wixstatic.com/video/e7a339_843848e1def34035bd4fb806c580be75/1080p/mp4/file.mp4"
+  },
+  {
+    "Key": "vid005",
+    "Url": "https://video.wixstatic.com/video/e7a339_baecdc126eda4b6a97649e613266c938/1080p/mp4/file.mp4"
+  },
+  {
+    "Key": "vid006",
+    "Url": "https://video.wixstatic.com/video/e7a339_234c4f6ce5564de5a698412c1295a7e6/1080p/mp4/file.mp4"
+  },
+  {
+    "Key": "vid007",
+    "Url": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4"
+  },
+  {
+    "Key": "vid008",
+    "Url": "https://video.wixstatic.com/video/e7a339_2ab0d9860fa8455d885cf1e0ef34ff4f/1080p/mp4/file.mp4"
+  },
+  {
+    "Key": "vid009",
+    "Url": "https://video.wixstatic.com/video/e7a339_050f4f56bc724bc3921c3a4755ff9b0a/1080p/mp4/file.mp4"
+  },
+  {
+    "Key": "vid010",
+    "Url": "https://video.wixstatic.com/video/e7a339_0999e92ee65640148fa658a458f2d1d3/1080p/mp4/file.mp4"
+  },
+  {
+    "Key": "img001",
+    "Url": "https://example.com/static_adboard_image.png"
+  }
+]
