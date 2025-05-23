@@ -4,29 +4,29 @@
     "Ads": [
       {
         "AdId": 101,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_2ab0d9860fa8455d885cf1e0ef34ff4f/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 12,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
-      },
-      {
-        "AdId": 102,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_234c4f6ce5564de5a698412c1295a7e6/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 13,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
-      },
-      {
-        "AdId": 103,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_0999e92ee65640148fa658a458f2d1d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid008",
         "AdTypeId": 1,
         "DurationToBePlayed": 18,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
+      },
+      {
+        "AdId": 102,
+        "MediaRef": "vid008",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 15,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
+      },
+      {
+        "AdId": 103,
+        "MediaRef": "vid003",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 20,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 1
       }
     ]
@@ -36,30 +36,30 @@
     "Ads": [
       {
         "AdId": 201,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid002",
         "AdTypeId": 1,
-        "DurationToBePlayed": 16,
+        "DurationToBePlayed": 11,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       },
       {
         "AdId": 202,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
+        "MediaRef": "vid002",
         "AdTypeId": 1,
         "DurationToBePlayed": 12,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       },
       {
         "AdId": 203,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_2ab0d9860fa8455d885cf1e0ef34ff4f/1080p/mp4/file.mp4",
+        "MediaRef": "vid006",
         "AdTypeId": 1,
-        "DurationToBePlayed": 19,
+        "DurationToBePlayed": 18,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
       }
     ]
   },
@@ -68,30 +68,30 @@
     "Ads": [
       {
         "AdId": 301,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
+        "MediaRef": "vid007",
         "AdTypeId": 1,
-        "DurationToBePlayed": 14,
+        "DurationToBePlayed": 15,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 2
       },
       {
         "AdId": 302,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_388c0c67bc074747bfabc30ef27858c5/1080p/mp4/file.mp4",
+        "MediaRef": "vid008",
         "AdTypeId": 1,
-        "DurationToBePlayed": 18,
+        "DurationToBePlayed": 10,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       },
       {
         "AdId": 303,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_2ab0d9860fa8455d885cf1e0ef34ff4f/1080p/mp4/file.mp4",
+        "MediaRef": "vid008",
         "AdTypeId": 1,
-        "DurationToBePlayed": 14,
+        "DurationToBePlayed": 12,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
       }
     ]
   },
@@ -100,30 +100,30 @@
     "Ads": [
       {
         "AdId": 401,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_234c4f6ce5564de5a698412c1295a7e6/1080p/mp4/file.mp4",
+        "MediaRef": "vid008",
         "AdTypeId": 1,
-        "DurationToBePlayed": 16,
+        "DurationToBePlayed": 15,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 2
       },
       {
         "AdId": 402,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_843848e1def34035bd4fb806c580be75/1080p/mp4/file.mp4",
+        "MediaRef": "vid001",
         "AdTypeId": 1,
-        "DurationToBePlayed": 10,
+        "DurationToBePlayed": 17,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 1
       },
       {
         "AdId": 403,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_2ab0d9860fa8455d885cf1e0ef34ff4f/1080p/mp4/file.mp4",
+        "MediaRef": "vid004",
         "AdTypeId": 1,
-        "DurationToBePlayed": 18,
+        "DurationToBePlayed": 10,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       }
     ]
   },
@@ -132,30 +132,30 @@
     "Ads": [
       {
         "AdId": 501,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_388c0c67bc074747bfabc30ef27858c5/1080p/mp4/file.mp4",
+        "MediaRef": "vid009",
         "AdTypeId": 1,
-        "DurationToBePlayed": 17,
+        "DurationToBePlayed": 11,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       },
       {
         "AdId": 502,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_843848e1def34035bd4fb806c580be75/1080p/mp4/file.mp4",
+        "MediaRef": "vid005",
         "AdTypeId": 1,
-        "DurationToBePlayed": 13,
+        "DurationToBePlayed": 15,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
       },
       {
         "AdId": 503,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_843848e1def34035bd4fb806c580be75/1080p/mp4/file.mp4",
+        "MediaRef": "vid009",
         "AdTypeId": 1,
-        "DurationToBePlayed": 17,
+        "DurationToBePlayed": 11,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       }
     ]
   },
@@ -164,30 +164,30 @@
     "Ads": [
       {
         "AdId": 601,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "MediaRef": "vid009",
         "AdTypeId": 1,
-        "DurationToBePlayed": 18,
+        "DurationToBePlayed": 19,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 2
       },
       {
         "AdId": 602,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_baecdc126eda4b6a97649e613266c938/1080p/mp4/file.mp4",
+        "MediaRef": "vid008",
         "AdTypeId": 1,
-        "DurationToBePlayed": 16,
+        "DurationToBePlayed": 14,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       },
       {
         "AdId": 603,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "MediaRef": "vid002",
         "AdTypeId": 1,
-        "DurationToBePlayed": 13,
+        "DurationToBePlayed": 18,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       }
     ]
   },
@@ -196,30 +196,30 @@
     "Ads": [
       {
         "AdId": 701,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "MediaRef": "vid002",
         "AdTypeId": 1,
-        "DurationToBePlayed": 20,
+        "DurationToBePlayed": 14,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 4
       },
       {
         "AdId": 702,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
+        "MediaRef": "vid008",
         "AdTypeId": 1,
-        "DurationToBePlayed": 15,
+        "DurationToBePlayed": 13,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 4
       },
       {
         "AdId": 703,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_0999e92ee65640148fa658a458f2d1d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid002",
         "AdTypeId": 1,
-        "DurationToBePlayed": 14,
+        "DurationToBePlayed": 12,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 2
       }
     ]
   },
@@ -228,30 +228,30 @@
     "Ads": [
       {
         "AdId": 801,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_388c0c67bc074747bfabc30ef27858c5/1080p/mp4/file.mp4",
+        "MediaRef": "vid007",
         "AdTypeId": 1,
         "DurationToBePlayed": 17,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       },
       {
         "AdId": 802,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "MediaRef": "vid006",
         "AdTypeId": 1,
-        "DurationToBePlayed": 12,
+        "DurationToBePlayed": 11,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       },
       {
         "AdId": 803,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_234c4f6ce5564de5a698412c1295a7e6/1080p/mp4/file.mp4",
+        "MediaRef": "vid007",
         "AdTypeId": 1,
-        "DurationToBePlayed": 13,
+        "DurationToBePlayed": 10,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       }
     ]
   },
@@ -260,30 +260,30 @@
     "Ads": [
       {
         "AdId": 901,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "MediaRef": "vid009",
         "AdTypeId": 1,
-        "DurationToBePlayed": 14,
+        "DurationToBePlayed": 20,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
-      },
-      {
-        "AdId": 902,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 19,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 2
       },
       {
-        "AdId": 903,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "AdId": 902,
+        "MediaRef": "vid004",
         "AdTypeId": 1,
-        "DurationToBePlayed": 18,
+        "DurationToBePlayed": 10,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
+      },
+      {
+        "AdId": 903,
+        "MediaRef": "vid007",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 13,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
       }
     ]
   },
@@ -292,30 +292,30 @@
     "Ads": [
       {
         "AdId": 1001,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_2ab0d9860fa8455d885cf1e0ef34ff4f/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 15,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
-      },
-      {
-        "AdId": 1002,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
+        "MediaRef": "vid003",
         "AdTypeId": 1,
         "DurationToBePlayed": 20,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
+      },
+      {
+        "AdId": 1002,
+        "MediaRef": "vid006",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 20,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       },
       {
         "AdId": 1003,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_234c4f6ce5564de5a698412c1295a7e6/1080p/mp4/file.mp4",
+        "MediaRef": "vid005",
         "AdTypeId": 1,
         "DurationToBePlayed": 14,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       }
     ]
   },
@@ -324,30 +324,30 @@
     "Ads": [
       {
         "AdId": 1101,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "MediaRef": "vid001",
         "AdTypeId": 1,
-        "DurationToBePlayed": 12,
+        "DurationToBePlayed": 14,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       },
       {
         "AdId": 1102,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_baecdc126eda4b6a97649e613266c938/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 19,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
-      },
-      {
-        "AdId": 1103,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
+        "MediaRef": "vid001",
         "AdTypeId": 1,
         "DurationToBePlayed": 15,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
+      },
+      {
+        "AdId": 1103,
+        "MediaRef": "vid004",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 13,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 2
       }
     ]
   },
@@ -356,30 +356,30 @@
     "Ads": [
       {
         "AdId": 1201,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "MediaRef": "vid005",
         "AdTypeId": 1,
-        "DurationToBePlayed": 17,
+        "DurationToBePlayed": 18,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 3
       },
       {
         "AdId": 1202,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_0999e92ee65640148fa658a458f2d1d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid008",
         "AdTypeId": 1,
-        "DurationToBePlayed": 11,
+        "DurationToBePlayed": 18,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       },
       {
         "AdId": 1203,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_baecdc126eda4b6a97649e613266c938/1080p/mp4/file.mp4",
+        "MediaRef": "vid001",
         "AdTypeId": 1,
-        "DurationToBePlayed": 12,
+        "DurationToBePlayed": 13,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       }
     ]
   },
@@ -388,30 +388,30 @@
     "Ads": [
       {
         "AdId": 1301,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_2ab0d9860fa8455d885cf1e0ef34ff4f/1080p/mp4/file.mp4",
+        "MediaRef": "vid007",
         "AdTypeId": 1,
         "DurationToBePlayed": 13,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 5
       },
       {
         "AdId": 1302,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
+        "MediaRef": "vid008",
         "AdTypeId": 1,
-        "DurationToBePlayed": 12,
+        "DurationToBePlayed": 11,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 3
       },
       {
         "AdId": 1303,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
+        "MediaRef": "vid010",
         "AdTypeId": 1,
-        "DurationToBePlayed": 12,
+        "DurationToBePlayed": 14,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       }
     ]
   },
@@ -420,30 +420,30 @@
     "Ads": [
       {
         "AdId": 1401,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_234c4f6ce5564de5a698412c1295a7e6/1080p/mp4/file.mp4",
+        "MediaRef": "vid010",
         "AdTypeId": 1,
-        "DurationToBePlayed": 13,
+        "DurationToBePlayed": 19,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
-      },
-      {
-        "AdId": 1402,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_050f4f56bc724bc3921c3a4755ff9b0a/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 12,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 1
       },
       {
-        "AdId": 1403,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_0999e92ee65640148fa658a458f2d1d3/1080p/mp4/file.mp4",
+        "AdId": 1402,
+        "MediaRef": "vid007",
         "AdTypeId": 1,
-        "DurationToBePlayed": 11,
+        "DurationToBePlayed": 15,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
+      },
+      {
+        "AdId": 1403,
+        "MediaRef": "vid009",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 10,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       }
     ]
   },
@@ -452,30 +452,30 @@
     "Ads": [
       {
         "AdId": 1501,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_843848e1def34035bd4fb806c580be75/1080p/mp4/file.mp4",
+        "MediaRef": "vid002",
         "AdTypeId": 1,
-        "DurationToBePlayed": 18,
+        "DurationToBePlayed": 10,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       },
       {
         "AdId": 1502,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid002",
         "AdTypeId": 1,
-        "DurationToBePlayed": 20,
+        "DurationToBePlayed": 18,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       },
       {
         "AdId": 1503,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid009",
         "AdTypeId": 1,
         "DurationToBePlayed": 15,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       }
     ]
   },
@@ -484,30 +484,30 @@
     "Ads": [
       {
         "AdId": 1601,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_0999e92ee65640148fa658a458f2d1d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid010",
         "AdTypeId": 1,
-        "DurationToBePlayed": 12,
+        "DurationToBePlayed": 16,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 5
       },
       {
         "AdId": 1602,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_234c4f6ce5564de5a698412c1295a7e6/1080p/mp4/file.mp4",
+        "MediaRef": "vid005",
         "AdTypeId": 1,
-        "DurationToBePlayed": 18,
+        "DurationToBePlayed": 12,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 1
       },
       {
         "AdId": 1603,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid001",
         "AdTypeId": 1,
-        "DurationToBePlayed": 14,
+        "DurationToBePlayed": 12,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       }
     ]
   },
@@ -516,30 +516,30 @@
     "Ads": [
       {
         "AdId": 1701,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_234c4f6ce5564de5a698412c1295a7e6/1080p/mp4/file.mp4",
+        "MediaRef": "vid009",
         "AdTypeId": 1,
-        "DurationToBePlayed": 16,
+        "DurationToBePlayed": 10,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
-      },
-      {
-        "AdId": 1702,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 11,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 3
       },
       {
-        "AdId": 1703,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
+        "AdId": 1702,
+        "MediaRef": "vid010",
         "AdTypeId": 1,
-        "DurationToBePlayed": 15,
+        "DurationToBePlayed": 20,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
+      },
+      {
+        "AdId": 1703,
+        "MediaRef": "vid007",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 19,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       }
     ]
   },
@@ -548,30 +548,30 @@
     "Ads": [
       {
         "AdId": 1801,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_050f4f56bc724bc3921c3a4755ff9b0a/1080p/mp4/file.mp4",
+        "MediaRef": "vid009",
         "AdTypeId": 1,
-        "DurationToBePlayed": 19,
+        "DurationToBePlayed": 13,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
       },
       {
         "AdId": 1802,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_0999e92ee65640148fa658a458f2d1d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid004",
         "AdTypeId": 1,
-        "DurationToBePlayed": 11,
+        "DurationToBePlayed": 10,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 2
       },
       {
         "AdId": 1803,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "MediaRef": "vid009",
         "AdTypeId": 1,
-        "DurationToBePlayed": 15,
+        "DurationToBePlayed": 17,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       }
     ]
   },
@@ -580,30 +580,30 @@
     "Ads": [
       {
         "AdId": 1901,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid002",
         "AdTypeId": 1,
         "DurationToBePlayed": 18,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
       },
       {
         "AdId": 1902,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_0999e92ee65640148fa658a458f2d1d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid010",
         "AdTypeId": 1,
-        "DurationToBePlayed": 10,
+        "DurationToBePlayed": 16,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       },
       {
         "AdId": 1903,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_2ab0d9860fa8455d885cf1e0ef34ff4f/1080p/mp4/file.mp4",
+        "MediaRef": "vid009",
         "AdTypeId": 1,
-        "DurationToBePlayed": 12,
+        "DurationToBePlayed": 18,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 2
       }
     ]
   },
@@ -612,30 +612,30 @@
     "Ads": [
       {
         "AdId": 2001,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_2ab0d9860fa8455d885cf1e0ef34ff4f/1080p/mp4/file.mp4",
+        "MediaRef": "vid010",
         "AdTypeId": 1,
-        "DurationToBePlayed": 13,
+        "DurationToBePlayed": 17,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       },
       {
         "AdId": 2002,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid006",
         "AdTypeId": 1,
-        "DurationToBePlayed": 15,
+        "DurationToBePlayed": 13,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 2
       },
       {
         "AdId": 2003,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid004",
         "AdTypeId": 1,
-        "DurationToBePlayed": 18,
+        "DurationToBePlayed": 19,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       }
     ]
   },
@@ -644,29 +644,29 @@
     "Ads": [
       {
         "AdId": 2101,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_2ab0d9860fa8455d885cf1e0ef34ff4f/1080p/mp4/file.mp4",
+        "MediaRef": "vid006",
         "AdTypeId": 1,
-        "DurationToBePlayed": 19,
+        "DurationToBePlayed": 13,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
-      },
-      {
-        "AdId": 2102,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 10,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 4
       },
       {
-        "AdId": 2103,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_234c4f6ce5564de5a698412c1295a7e6/1080p/mp4/file.mp4",
+        "AdId": 2102,
+        "MediaRef": "vid006",
         "AdTypeId": 1,
         "DurationToBePlayed": 19,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
+      },
+      {
+        "AdId": 2103,
+        "MediaRef": "vid009",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 12,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 5
       }
     ]
@@ -676,30 +676,30 @@
     "Ads": [
       {
         "AdId": 2201,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_baecdc126eda4b6a97649e613266c938/1080p/mp4/file.mp4",
+        "MediaRef": "vid005",
         "AdTypeId": 1,
-        "DurationToBePlayed": 20,
+        "DurationToBePlayed": 15,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 4
       },
       {
         "AdId": 2202,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_388c0c67bc074747bfabc30ef27858c5/1080p/mp4/file.mp4",
+        "MediaRef": "vid006",
         "AdTypeId": 1,
-        "DurationToBePlayed": 12,
+        "DurationToBePlayed": 16,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       },
       {
         "AdId": 2203,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_050f4f56bc724bc3921c3a4755ff9b0a/1080p/mp4/file.mp4",
+        "MediaRef": "vid005",
         "AdTypeId": 1,
-        "DurationToBePlayed": 14,
+        "DurationToBePlayed": 19,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
       }
     ]
   },
@@ -708,30 +708,30 @@
     "Ads": [
       {
         "AdId": 2301,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
+        "MediaRef": "vid001",
         "AdTypeId": 1,
-        "DurationToBePlayed": 19,
+        "DurationToBePlayed": 20,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 4
       },
       {
         "AdId": 2302,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid009",
         "AdTypeId": 1,
-        "DurationToBePlayed": 11,
+        "DurationToBePlayed": 20,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 4
       },
       {
         "AdId": 2303,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid004",
         "AdTypeId": 1,
-        "DurationToBePlayed": 14,
+        "DurationToBePlayed": 17,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       }
     ]
   },
@@ -740,11 +740,11 @@
     "Ads": [
       {
         "AdId": 2401,
-        "MediaLink": "https://example.com/static_adboard_image.png",
+        "MediaRef": "img001",
         "AdTypeId": 0,
         "DurationToBePlayed": 15,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 1
       }
     ]
@@ -754,30 +754,30 @@
     "Ads": [
       {
         "AdId": 2501,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_0999e92ee65640148fa658a458f2d1d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid004",
         "AdTypeId": 1,
-        "DurationToBePlayed": 19,
+        "DurationToBePlayed": 17,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
-      },
-      {
-        "AdId": 2502,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_050f4f56bc724bc3921c3a4755ff9b0a/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 12,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 5
       },
       {
-        "AdId": 2503,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_2ab0d9860fa8455d885cf1e0ef34ff4f/1080p/mp4/file.mp4",
+        "AdId": 2502,
+        "MediaRef": "vid006",
         "AdTypeId": 1,
-        "DurationToBePlayed": 11,
+        "DurationToBePlayed": 18,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 2
+      },
+      {
+        "AdId": 2503,
+        "MediaRef": "vid001",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 16,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       }
     ]
   },
@@ -786,30 +786,30 @@
     "Ads": [
       {
         "AdId": 2601,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_388c0c67bc074747bfabc30ef27858c5/1080p/mp4/file.mp4",
+        "MediaRef": "vid007",
         "AdTypeId": 1,
-        "DurationToBePlayed": 14,
+        "DurationToBePlayed": 18,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 1
       },
       {
         "AdId": 2602,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_2ab0d9860fa8455d885cf1e0ef34ff4f/1080p/mp4/file.mp4",
+        "MediaRef": "vid010",
         "AdTypeId": 1,
-        "DurationToBePlayed": 20,
+        "DurationToBePlayed": 15,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
       },
       {
         "AdId": 2603,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid002",
         "AdTypeId": 1,
-        "DurationToBePlayed": 11,
+        "DurationToBePlayed": 20,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       }
     ]
   },
@@ -818,30 +818,30 @@
     "Ads": [
       {
         "AdId": 2701,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_388c0c67bc074747bfabc30ef27858c5/1080p/mp4/file.mp4",
+        "MediaRef": "vid007",
         "AdTypeId": 1,
-        "DurationToBePlayed": 19,
+        "DurationToBePlayed": 16,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       },
       {
         "AdId": 2702,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_0999e92ee65640148fa658a458f2d1d3/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 10,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
-      },
-      {
-        "AdId": 2703,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "MediaRef": "vid003",
         "AdTypeId": 1,
         "DurationToBePlayed": 18,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
+      },
+      {
+        "AdId": 2703,
+        "MediaRef": "vid005",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 16,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 2
       }
     ]
   },
@@ -850,30 +850,30 @@
     "Ads": [
       {
         "AdId": 2801,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_050f4f56bc724bc3921c3a4755ff9b0a/1080p/mp4/file.mp4",
+        "MediaRef": "vid007",
         "AdTypeId": 1,
-        "DurationToBePlayed": 14,
+        "DurationToBePlayed": 11,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       },
       {
         "AdId": 2802,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_0999e92ee65640148fa658a458f2d1d3/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 12,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
-      },
-      {
-        "AdId": 2803,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
+        "MediaRef": "vid001",
         "AdTypeId": 1,
         "DurationToBePlayed": 14,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 5
+      },
+      {
+        "AdId": 2803,
+        "MediaRef": "vid006",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 15,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       }
     ]
   },
@@ -882,29 +882,29 @@
     "Ads": [
       {
         "AdId": 2901,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_2ab0d9860fa8455d885cf1e0ef34ff4f/1080p/mp4/file.mp4",
+        "MediaRef": "vid010",
         "AdTypeId": 1,
-        "DurationToBePlayed": 13,
+        "DurationToBePlayed": 14,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       },
       {
         "AdId": 2902,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_baecdc126eda4b6a97649e613266c938/1080p/mp4/file.mp4",
+        "MediaRef": "vid004",
         "AdTypeId": 1,
         "DurationToBePlayed": 19,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       },
       {
         "AdId": 2903,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_0999e92ee65640148fa658a458f2d1d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid003",
         "AdTypeId": 1,
-        "DurationToBePlayed": 16,
+        "DurationToBePlayed": 20,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 2
       }
     ]
@@ -914,30 +914,30 @@
     "Ads": [
       {
         "AdId": 3001,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_0999e92ee65640148fa658a458f2d1d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid004",
         "AdTypeId": 1,
-        "DurationToBePlayed": 13,
+        "DurationToBePlayed": 11,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       },
       {
         "AdId": 3002,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_baecdc126eda4b6a97649e613266c938/1080p/mp4/file.mp4",
+        "MediaRef": "vid008",
         "AdTypeId": 1,
-        "DurationToBePlayed": 13,
+        "DurationToBePlayed": 20,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
       },
       {
         "AdId": 3003,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_0999e92ee65640148fa658a458f2d1d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid003",
         "AdTypeId": 1,
-        "DurationToBePlayed": 15,
+        "DurationToBePlayed": 13,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       }
     ]
   },
@@ -946,30 +946,30 @@
     "Ads": [
       {
         "AdId": 3101,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
+        "MediaRef": "vid004",
         "AdTypeId": 1,
-        "DurationToBePlayed": 12,
+        "DurationToBePlayed": 13,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       },
       {
         "AdId": 3102,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_388c0c67bc074747bfabc30ef27858c5/1080p/mp4/file.mp4",
+        "MediaRef": "vid008",
         "AdTypeId": 1,
-        "DurationToBePlayed": 12,
+        "DurationToBePlayed": 14,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       },
       {
         "AdId": 3103,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "MediaRef": "vid001",
         "AdTypeId": 1,
         "DurationToBePlayed": 11,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       }
     ]
   },
@@ -978,30 +978,30 @@
     "Ads": [
       {
         "AdId": 3201,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_234c4f6ce5564de5a698412c1295a7e6/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 14,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
-      },
-      {
-        "AdId": 3202,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_388c0c67bc074747bfabc30ef27858c5/1080p/mp4/file.mp4",
+        "MediaRef": "vid010",
         "AdTypeId": 1,
         "DurationToBePlayed": 13,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
+      },
+      {
+        "AdId": 3202,
+        "MediaRef": "vid009",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 15,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 3
       },
       {
         "AdId": 3203,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid007",
         "AdTypeId": 1,
         "DurationToBePlayed": 10,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 2
       }
     ]
   },
@@ -1010,11 +1010,11 @@
     "Ads": [
       {
         "AdId": 3301,
-        "MediaLink": "https://example.com/static_adboard_image.png",
+        "MediaRef": "img001",
         "AdTypeId": 0,
         "DurationToBePlayed": 15,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 1
       }
     ]
@@ -1024,30 +1024,30 @@
     "Ads": [
       {
         "AdId": 3401,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_0999e92ee65640148fa658a458f2d1d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid001",
         "AdTypeId": 1,
-        "DurationToBePlayed": 13,
+        "DurationToBePlayed": 15,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 1
       },
       {
         "AdId": 3402,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_2ab0d9860fa8455d885cf1e0ef34ff4f/1080p/mp4/file.mp4",
+        "MediaRef": "vid005",
         "AdTypeId": 1,
-        "DurationToBePlayed": 14,
+        "DurationToBePlayed": 19,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       },
       {
         "AdId": 3403,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
+        "MediaRef": "vid006",
         "AdTypeId": 1,
-        "DurationToBePlayed": 13,
+        "DurationToBePlayed": 20,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
       }
     ]
   },
@@ -1056,29 +1056,29 @@
     "Ads": [
       {
         "AdId": 3501,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 17,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
-      },
-      {
-        "AdId": 3502,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
+        "MediaRef": "vid005",
         "AdTypeId": 1,
         "DurationToBePlayed": 10,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       },
       {
-        "AdId": 3503,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "AdId": 3502,
+        "MediaRef": "vid006",
         "AdTypeId": 1,
         "DurationToBePlayed": 11,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
+      },
+      {
+        "AdId": 3503,
+        "MediaRef": "vid009",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 19,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 4
       }
     ]
@@ -1088,30 +1088,30 @@
     "Ads": [
       {
         "AdId": 3601,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "MediaRef": "vid007",
         "AdTypeId": 1,
-        "DurationToBePlayed": 13,
+        "DurationToBePlayed": 12,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       },
       {
         "AdId": 3602,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_050f4f56bc724bc3921c3a4755ff9b0a/1080p/mp4/file.mp4",
+        "MediaRef": "vid009",
         "AdTypeId": 1,
-        "DurationToBePlayed": 18,
+        "DurationToBePlayed": 17,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       },
       {
         "AdId": 3603,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "MediaRef": "vid009",
         "AdTypeId": 1,
-        "DurationToBePlayed": 14,
+        "DurationToBePlayed": 16,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       }
     ]
   },
@@ -1120,30 +1120,30 @@
     "Ads": [
       {
         "AdId": 3701,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_baecdc126eda4b6a97649e613266c938/1080p/mp4/file.mp4",
+        "MediaRef": "vid006",
         "AdTypeId": 1,
-        "DurationToBePlayed": 17,
+        "DurationToBePlayed": 14,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 2
       },
       {
         "AdId": 3702,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_388c0c67bc074747bfabc30ef27858c5/1080p/mp4/file.mp4",
+        "MediaRef": "vid010",
         "AdTypeId": 1,
-        "DurationToBePlayed": 18,
+        "DurationToBePlayed": 15,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 5
       },
       {
         "AdId": 3703,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "MediaRef": "vid005",
         "AdTypeId": 1,
-        "DurationToBePlayed": 12,
+        "DurationToBePlayed": 11,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       }
     ]
   },
@@ -1152,11 +1152,11 @@
     "Ads": [
       {
         "AdId": 3801,
-        "MediaLink": "https://example.com/static_adboard_image.png",
+        "MediaRef": "img001",
         "AdTypeId": 0,
         "DurationToBePlayed": 15,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 1
       }
     ]
@@ -1166,30 +1166,30 @@
     "Ads": [
       {
         "AdId": 3901,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_0999e92ee65640148fa658a458f2d1d3/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 13,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
-      },
-      {
-        "AdId": 3902,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_843848e1def34035bd4fb806c580be75/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 14,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
-      },
-      {
-        "AdId": 3903,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_0999e92ee65640148fa658a458f2d1d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid002",
         "AdTypeId": 1,
         "DurationToBePlayed": 16,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 2
+      },
+      {
+        "AdId": 3902,
+        "MediaRef": "vid008",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 12,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 2
+      },
+      {
+        "AdId": 3903,
+        "MediaRef": "vid007",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 19,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       }
     ]
   },
@@ -1198,29 +1198,29 @@
     "Ads": [
       {
         "AdId": 4001,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_050f4f56bc724bc3921c3a4755ff9b0a/1080p/mp4/file.mp4",
+        "MediaRef": "vid004",
         "AdTypeId": 1,
-        "DurationToBePlayed": 20,
+        "DurationToBePlayed": 17,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
-      },
-      {
-        "AdId": 4002,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_0999e92ee65640148fa658a458f2d1d3/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 10,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 4
       },
       {
-        "AdId": 4003,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_843848e1def34035bd4fb806c580be75/1080p/mp4/file.mp4",
+        "AdId": 4002,
+        "MediaRef": "vid003",
         "AdTypeId": 1,
-        "DurationToBePlayed": 10,
+        "DurationToBePlayed": 14,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
+      },
+      {
+        "AdId": 4003,
+        "MediaRef": "vid002",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 18,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 1
       }
     ]
@@ -1230,30 +1230,30 @@
     "Ads": [
       {
         "AdId": 4101,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_388c0c67bc074747bfabc30ef27858c5/1080p/mp4/file.mp4",
+        "MediaRef": "vid009",
         "AdTypeId": 1,
-        "DurationToBePlayed": 14,
+        "DurationToBePlayed": 12,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       },
       {
         "AdId": 4102,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_050f4f56bc724bc3921c3a4755ff9b0a/1080p/mp4/file.mp4",
+        "MediaRef": "vid006",
         "AdTypeId": 1,
-        "DurationToBePlayed": 18,
+        "DurationToBePlayed": 10,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       },
       {
         "AdId": 4103,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid007",
         "AdTypeId": 1,
-        "DurationToBePlayed": 16,
+        "DurationToBePlayed": 17,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
       }
     ]
   },
@@ -1262,30 +1262,30 @@
     "Ads": [
       {
         "AdId": 4201,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_234c4f6ce5564de5a698412c1295a7e6/1080p/mp4/file.mp4",
+        "MediaRef": "vid006",
         "AdTypeId": 1,
-        "DurationToBePlayed": 19,
+        "DurationToBePlayed": 15,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       },
       {
         "AdId": 4202,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
+        "MediaRef": "vid002",
         "AdTypeId": 1,
-        "DurationToBePlayed": 13,
+        "DurationToBePlayed": 18,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 1
       },
       {
         "AdId": 4203,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_2ab0d9860fa8455d885cf1e0ef34ff4f/1080p/mp4/file.mp4",
+        "MediaRef": "vid002",
         "AdTypeId": 1,
-        "DurationToBePlayed": 11,
+        "DurationToBePlayed": 17,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       }
     ]
   },
@@ -1294,30 +1294,30 @@
     "Ads": [
       {
         "AdId": 4301,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_388c0c67bc074747bfabc30ef27858c5/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 10,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
-      },
-      {
-        "AdId": 4302,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 20,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
-      },
-      {
-        "AdId": 4303,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_050f4f56bc724bc3921c3a4755ff9b0a/1080p/mp4/file.mp4",
+        "MediaRef": "vid007",
         "AdTypeId": 1,
         "DurationToBePlayed": 15,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 2
+      },
+      {
+        "AdId": 4302,
+        "MediaRef": "vid005",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 20,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 1
+      },
+      {
+        "AdId": 4303,
+        "MediaRef": "vid007",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 15,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       }
     ]
   },
@@ -1326,30 +1326,30 @@
     "Ads": [
       {
         "AdId": 4401,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid008",
         "AdTypeId": 1,
         "DurationToBePlayed": 12,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       },
       {
         "AdId": 4402,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_baecdc126eda4b6a97649e613266c938/1080p/mp4/file.mp4",
+        "MediaRef": "vid002",
         "AdTypeId": 1,
-        "DurationToBePlayed": 20,
+        "DurationToBePlayed": 12,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       },
       {
         "AdId": 4403,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_050f4f56bc724bc3921c3a4755ff9b0a/1080p/mp4/file.mp4",
+        "MediaRef": "vid009",
         "AdTypeId": 1,
-        "DurationToBePlayed": 14,
+        "DurationToBePlayed": 11,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
       }
     ]
   },
@@ -1358,30 +1358,30 @@
     "Ads": [
       {
         "AdId": 4501,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "MediaRef": "vid003",
         "AdTypeId": 1,
-        "DurationToBePlayed": 19,
+        "DurationToBePlayed": 17,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       },
       {
         "AdId": 4502,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_2ab0d9860fa8455d885cf1e0ef34ff4f/1080p/mp4/file.mp4",
+        "MediaRef": "vid001",
         "AdTypeId": 1,
         "DurationToBePlayed": 11,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
       },
       {
         "AdId": 4503,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_843848e1def34035bd4fb806c580be75/1080p/mp4/file.mp4",
+        "MediaRef": "vid007",
         "AdTypeId": 1,
-        "DurationToBePlayed": 12,
+        "DurationToBePlayed": 13,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 2
       }
     ]
   },
@@ -1390,30 +1390,30 @@
     "Ads": [
       {
         "AdId": 4601,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_2ab0d9860fa8455d885cf1e0ef34ff4f/1080p/mp4/file.mp4",
+        "MediaRef": "vid001",
         "AdTypeId": 1,
-        "DurationToBePlayed": 19,
+        "DurationToBePlayed": 12,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       },
       {
         "AdId": 4602,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_843848e1def34035bd4fb806c580be75/1080p/mp4/file.mp4",
+        "MediaRef": "vid002",
         "AdTypeId": 1,
-        "DurationToBePlayed": 19,
+        "DurationToBePlayed": 20,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 2
       },
       {
         "AdId": 4603,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "MediaRef": "vid010",
         "AdTypeId": 1,
-        "DurationToBePlayed": 10,
+        "DurationToBePlayed": 17,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 2
       }
     ]
   },
@@ -1422,29 +1422,29 @@
     "Ads": [
       {
         "AdId": 4701,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
+        "MediaRef": "vid003",
         "AdTypeId": 1,
-        "DurationToBePlayed": 18,
+        "DurationToBePlayed": 14,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
-      },
-      {
-        "AdId": 4702,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 11,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 1
       },
       {
-        "AdId": 4703,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "AdId": 4702,
+        "MediaRef": "vid006",
         "AdTypeId": 1,
-        "DurationToBePlayed": 19,
+        "DurationToBePlayed": 10,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
+      },
+      {
+        "AdId": 4703,
+        "MediaRef": "vid001",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 11,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 4
       }
     ]
@@ -1454,29 +1454,29 @@
     "Ads": [
       {
         "AdId": 4801,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_baecdc126eda4b6a97649e613266c938/1080p/mp4/file.mp4",
+        "MediaRef": "vid001",
         "AdTypeId": 1,
-        "DurationToBePlayed": 19,
+        "DurationToBePlayed": 15,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 2
       },
       {
         "AdId": 4802,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid002",
         "AdTypeId": 1,
-        "DurationToBePlayed": 13,
+        "DurationToBePlayed": 12,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
       },
       {
         "AdId": 4803,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_234c4f6ce5564de5a698412c1295a7e6/1080p/mp4/file.mp4",
+        "MediaRef": "vid010",
         "AdTypeId": 1,
-        "DurationToBePlayed": 17,
+        "DurationToBePlayed": 19,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 2
       }
     ]
@@ -1486,30 +1486,30 @@
     "Ads": [
       {
         "AdId": 4901,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_843848e1def34035bd4fb806c580be75/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 17,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
-      },
-      {
-        "AdId": 4902,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_388c0c67bc074747bfabc30ef27858c5/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 10,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
-      },
-      {
-        "AdId": 4903,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_baecdc126eda4b6a97649e613266c938/1080p/mp4/file.mp4",
+        "MediaRef": "vid002",
         "AdTypeId": 1,
         "DurationToBePlayed": 14,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
+      },
+      {
+        "AdId": 4902,
+        "MediaRef": "vid008",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 20,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
+      },
+      {
+        "AdId": 4903,
+        "MediaRef": "vid007",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 10,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
       }
     ]
   },
@@ -1518,30 +1518,30 @@
     "Ads": [
       {
         "AdId": 5001,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "MediaRef": "vid007",
         "AdTypeId": 1,
-        "DurationToBePlayed": 15,
+        "DurationToBePlayed": 17,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 5
       },
       {
         "AdId": 5002,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid007",
         "AdTypeId": 1,
-        "DurationToBePlayed": 16,
+        "DurationToBePlayed": 11,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       },
       {
         "AdId": 5003,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "MediaRef": "vid004",
         "AdTypeId": 1,
-        "DurationToBePlayed": 19,
+        "DurationToBePlayed": 13,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 2
       }
     ]
   },
@@ -1550,30 +1550,30 @@
     "Ads": [
       {
         "AdId": 5101,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid007",
         "AdTypeId": 1,
         "DurationToBePlayed": 10,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
       },
       {
         "AdId": 5102,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_050f4f56bc724bc3921c3a4755ff9b0a/1080p/mp4/file.mp4",
+        "MediaRef": "vid001",
         "AdTypeId": 1,
-        "DurationToBePlayed": 18,
+        "DurationToBePlayed": 11,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       },
       {
         "AdId": 5103,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_388c0c67bc074747bfabc30ef27858c5/1080p/mp4/file.mp4",
+        "MediaRef": "vid001",
         "AdTypeId": 1,
-        "DurationToBePlayed": 16,
+        "DurationToBePlayed": 15,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       }
     ]
   },
@@ -1582,30 +1582,30 @@
     "Ads": [
       {
         "AdId": 5201,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "MediaRef": "vid006",
         "AdTypeId": 1,
-        "DurationToBePlayed": 18,
+        "DurationToBePlayed": 14,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 2
       },
       {
         "AdId": 5202,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_0999e92ee65640148fa658a458f2d1d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid005",
         "AdTypeId": 1,
-        "DurationToBePlayed": 15,
+        "DurationToBePlayed": 11,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       },
       {
         "AdId": 5203,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid004",
         "AdTypeId": 1,
-        "DurationToBePlayed": 20,
+        "DurationToBePlayed": 19,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       }
     ]
   },
@@ -1614,30 +1614,30 @@
     "Ads": [
       {
         "AdId": 5301,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_baecdc126eda4b6a97649e613266c938/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 15,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
-      },
-      {
-        "AdId": 5302,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_388c0c67bc074747bfabc30ef27858c5/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 16,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
-      },
-      {
-        "AdId": 5303,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_843848e1def34035bd4fb806c580be75/1080p/mp4/file.mp4",
+        "MediaRef": "vid004",
         "AdTypeId": 1,
         "DurationToBePlayed": 18,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 1
+      },
+      {
+        "AdId": 5302,
+        "MediaRef": "vid007",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 10,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
+      },
+      {
+        "AdId": 5303,
+        "MediaRef": "vid005",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 14,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       }
     ]
   },
@@ -1646,30 +1646,30 @@
     "Ads": [
       {
         "AdId": 5401,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_050f4f56bc724bc3921c3a4755ff9b0a/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 13,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
-      },
-      {
-        "AdId": 5402,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid006",
         "AdTypeId": 1,
         "DurationToBePlayed": 17,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
+      },
+      {
+        "AdId": 5402,
+        "MediaRef": "vid009",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 15,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 2
       },
       {
         "AdId": 5403,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "MediaRef": "vid002",
         "AdTypeId": 1,
-        "DurationToBePlayed": 13,
+        "DurationToBePlayed": 20,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
       }
     ]
   },
@@ -1678,30 +1678,30 @@
     "Ads": [
       {
         "AdId": 5501,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_0999e92ee65640148fa658a458f2d1d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid008",
         "AdTypeId": 1,
-        "DurationToBePlayed": 16,
+        "DurationToBePlayed": 10,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       },
       {
         "AdId": 5502,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 20,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
-      },
-      {
-        "AdId": 5503,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_050f4f56bc724bc3921c3a4755ff9b0a/1080p/mp4/file.mp4",
+        "MediaRef": "vid008",
         "AdTypeId": 1,
         "DurationToBePlayed": 17,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 1
+      },
+      {
+        "AdId": 5503,
+        "MediaRef": "vid003",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 10,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       }
     ]
   },
@@ -1710,30 +1710,30 @@
     "Ads": [
       {
         "AdId": 5601,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
+        "MediaRef": "vid008",
         "AdTypeId": 1,
-        "DurationToBePlayed": 19,
+        "DurationToBePlayed": 20,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
-      },
-      {
-        "AdId": 5602,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_0999e92ee65640148fa658a458f2d1d3/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 14,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 3
       },
       {
+        "AdId": 5602,
+        "MediaRef": "vid008",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 14,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 2
+      },
+      {
         "AdId": 5603,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid008",
         "AdTypeId": 1,
         "DurationToBePlayed": 19,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       }
     ]
   },
@@ -1742,30 +1742,30 @@
     "Ads": [
       {
         "AdId": 5701,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_843848e1def34035bd4fb806c580be75/1080p/mp4/file.mp4",
+        "MediaRef": "vid001",
         "AdTypeId": 1,
-        "DurationToBePlayed": 17,
+        "DurationToBePlayed": 19,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       },
       {
         "AdId": 5702,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid006",
         "AdTypeId": 1,
-        "DurationToBePlayed": 11,
+        "DurationToBePlayed": 18,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       },
       {
         "AdId": 5703,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_050f4f56bc724bc3921c3a4755ff9b0a/1080p/mp4/file.mp4",
+        "MediaRef": "vid008",
         "AdTypeId": 1,
-        "DurationToBePlayed": 14,
+        "DurationToBePlayed": 15,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       }
     ]
   },
@@ -1774,30 +1774,30 @@
     "Ads": [
       {
         "AdId": 5801,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_843848e1def34035bd4fb806c580be75/1080p/mp4/file.mp4",
+        "MediaRef": "vid005",
         "AdTypeId": 1,
-        "DurationToBePlayed": 14,
+        "DurationToBePlayed": 17,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 2
       },
       {
         "AdId": 5802,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_388c0c67bc074747bfabc30ef27858c5/1080p/mp4/file.mp4",
+        "MediaRef": "vid006",
         "AdTypeId": 1,
-        "DurationToBePlayed": 20,
+        "DurationToBePlayed": 12,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       },
       {
         "AdId": 5803,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
+        "MediaRef": "vid008",
         "AdTypeId": 1,
-        "DurationToBePlayed": 13,
+        "DurationToBePlayed": 19,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       }
     ]
   },
@@ -1806,30 +1806,30 @@
     "Ads": [
       {
         "AdId": 5901,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_2ab0d9860fa8455d885cf1e0ef34ff4f/1080p/mp4/file.mp4",
+        "MediaRef": "vid003",
         "AdTypeId": 1,
-        "DurationToBePlayed": 18,
+        "DurationToBePlayed": 10,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       },
       {
         "AdId": 5902,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_050f4f56bc724bc3921c3a4755ff9b0a/1080p/mp4/file.mp4",
+        "MediaRef": "vid007",
         "AdTypeId": 1,
-        "DurationToBePlayed": 18,
+        "DurationToBePlayed": 20,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
       },
       {
         "AdId": 5903,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_843848e1def34035bd4fb806c580be75/1080p/mp4/file.mp4",
+        "MediaRef": "vid009",
         "AdTypeId": 1,
-        "DurationToBePlayed": 18,
+        "DurationToBePlayed": 10,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       }
     ]
   },
@@ -1838,30 +1838,30 @@
     "Ads": [
       {
         "AdId": 6001,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_2ab0d9860fa8455d885cf1e0ef34ff4f/1080p/mp4/file.mp4",
+        "MediaRef": "vid001",
         "AdTypeId": 1,
-        "DurationToBePlayed": 19,
+        "DurationToBePlayed": 11,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
-      },
-      {
-        "AdId": 6002,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_843848e1def34035bd4fb806c580be75/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 19,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 1
       },
       {
+        "AdId": 6002,
+        "MediaRef": "vid010",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 15,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
+      },
+      {
         "AdId": 6003,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_0999e92ee65640148fa658a458f2d1d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid007",
         "AdTypeId": 1,
         "DurationToBePlayed": 10,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
       }
     ]
   },
@@ -1870,30 +1870,30 @@
     "Ads": [
       {
         "AdId": 6101,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_050f4f56bc724bc3921c3a4755ff9b0a/1080p/mp4/file.mp4",
+        "MediaRef": "vid003",
         "AdTypeId": 1,
-        "DurationToBePlayed": 14,
+        "DurationToBePlayed": 16,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       },
       {
         "AdId": 6102,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_843848e1def34035bd4fb806c580be75/1080p/mp4/file.mp4",
+        "MediaRef": "vid007",
         "AdTypeId": 1,
-        "DurationToBePlayed": 12,
+        "DurationToBePlayed": 10,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
       },
       {
         "AdId": 6103,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
+        "MediaRef": "vid009",
         "AdTypeId": 1,
-        "DurationToBePlayed": 15,
+        "DurationToBePlayed": 16,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
       }
     ]
   },
@@ -1902,30 +1902,30 @@
     "Ads": [
       {
         "AdId": 6201,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "MediaRef": "vid007",
         "AdTypeId": 1,
-        "DurationToBePlayed": 20,
+        "DurationToBePlayed": 11,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 1
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 4
       },
       {
         "AdId": 6202,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_234c4f6ce5564de5a698412c1295a7e6/1080p/mp4/file.mp4",
+        "MediaRef": "vid001",
         "AdTypeId": 1,
-        "DurationToBePlayed": 17,
+        "DurationToBePlayed": 16,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       },
       {
         "AdId": 6203,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_baecdc126eda4b6a97649e613266c938/1080p/mp4/file.mp4",
+        "MediaRef": "vid001",
         "AdTypeId": 1,
-        "DurationToBePlayed": 10,
+        "DurationToBePlayed": 15,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 2
       }
     ]
   },
@@ -1934,30 +1934,30 @@
     "Ads": [
       {
         "AdId": 6301,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_050f4f56bc724bc3921c3a4755ff9b0a/1080p/mp4/file.mp4",
+        "MediaRef": "vid010",
         "AdTypeId": 1,
-        "DurationToBePlayed": 14,
+        "DurationToBePlayed": 15,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 2
       },
       {
         "AdId": 6302,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_234c4f6ce5564de5a698412c1295a7e6/1080p/mp4/file.mp4",
+        "MediaRef": "vid010",
         "AdTypeId": 1,
-        "DurationToBePlayed": 17,
+        "DurationToBePlayed": 20,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
       },
       {
         "AdId": 6303,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid008",
         "AdTypeId": 1,
-        "DurationToBePlayed": 16,
+        "DurationToBePlayed": 15,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 1
       }
     ]
   },
@@ -1966,29 +1966,29 @@
     "Ads": [
       {
         "AdId": 6401,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_baecdc126eda4b6a97649e613266c938/1080p/mp4/file.mp4",
+        "MediaRef": "vid001",
         "AdTypeId": 1,
         "DurationToBePlayed": 17,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       },
       {
         "AdId": 6402,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 20,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 4
-      },
-      {
-        "AdId": 6403,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_388c0c67bc074747bfabc30ef27858c5/1080p/mp4/file.mp4",
+        "MediaRef": "vid004",
         "AdTypeId": 1,
         "DurationToBePlayed": 15,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
+      },
+      {
+        "AdId": 6403,
+        "MediaRef": "vid005",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 12,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 5
       }
     ]
@@ -1998,30 +1998,30 @@
     "Ads": [
       {
         "AdId": 6501,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_050f4f56bc724bc3921c3a4755ff9b0a/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 13,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
-      },
-      {
-        "AdId": 6502,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_843848e1def34035bd4fb806c580be75/1080p/mp4/file.mp4",
-        "AdTypeId": 1,
-        "DurationToBePlayed": 18,
-        "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
-      },
-      {
-        "AdId": 6503,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid010",
         "AdTypeId": 1,
         "DurationToBePlayed": 12,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 3
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 2
+      },
+      {
+        "AdId": 6502,
+        "MediaRef": "vid006",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 16,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 2
+      },
+      {
+        "AdId": 6503,
+        "MediaRef": "vid001",
+        "AdTypeId": 1,
+        "DurationToBePlayed": 15,
+        "StartTime": "2025-05-22T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       }
     ]
   },
@@ -2030,29 +2030,29 @@
     "Ads": [
       {
         "AdId": 6601,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "MediaRef": "vid009",
         "AdTypeId": 1,
-        "DurationToBePlayed": 10,
+        "DurationToBePlayed": 16,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       },
       {
         "AdId": 6602,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4",
+        "MediaRef": "vid003",
         "AdTypeId": 1,
-        "DurationToBePlayed": 18,
+        "DurationToBePlayed": 10,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 1
       },
       {
         "AdId": 6603,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_a9bd4667c57f4ddd974a801c45fbe864/1080p/mp4/file.mp4",
+        "MediaRef": "vid008",
         "AdTypeId": 1,
-        "DurationToBePlayed": 13,
+        "DurationToBePlayed": 14,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 3
       }
     ]
@@ -2062,11 +2062,11 @@
     "Ads": [
       {
         "AdId": 6701,
-        "MediaLink": "https://example.com/static_adboard_image.png",
+        "MediaRef": "img001",
         "AdTypeId": 0,
         "DurationToBePlayed": 15,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 1
       }
     ]
@@ -2076,30 +2076,30 @@
     "Ads": [
       {
         "AdId": 6801,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_388c0c67bc074747bfabc30ef27858c5/1080p/mp4/file.mp4",
+        "MediaRef": "vid006",
         "AdTypeId": 1,
-        "DurationToBePlayed": 14,
+        "DurationToBePlayed": 13,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
+        "EndTime": "2026-12-31T23:59:59",
         "Priority": 2
       },
       {
         "AdId": 6802,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_9a194c4b41174f53a1d2b995801ee4a7/1080p/mp4/file.mp4",
+        "MediaRef": "vid005",
         "AdTypeId": 1,
-        "DurationToBePlayed": 11,
+        "DurationToBePlayed": 17,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 2
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 5
       },
       {
         "AdId": 6803,
-        "MediaLink": "https://video.wixstatic.com/video/e7a339_baecdc126eda4b6a97649e613266c938/1080p/mp4/file.mp4",
+        "MediaRef": "vid008",
         "AdTypeId": 1,
-        "DurationToBePlayed": 12,
+        "DurationToBePlayed": 19,
         "StartTime": "2025-05-22T00:00:00",
-        "EndTime": "2026-12-31T00:00:00",
-        "Priority": 5
+        "EndTime": "2026-12-31T23:59:59",
+        "Priority": 3
       }
     ]
   }
