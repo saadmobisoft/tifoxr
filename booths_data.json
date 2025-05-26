@@ -144,7 +144,8 @@
     },
     {
       "type": "Staff",
-      "videoLinks": [],
+      "videoLinks": ["https://video.wixstatic.com/video/e7a339_388c0c67bc074747bfabc30ef27858c5/1080p/mp4/file.mp4",
+                     "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4"],
       "webPortals": []
     },
     {
