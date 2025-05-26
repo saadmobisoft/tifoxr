@@ -144,9 +144,32 @@
     },
     {
       "type": "Staff",
-      "videoLinks": ["https://video.wixstatic.com/video/e7a339_388c0c67bc074747bfabc30ef27858c5/1080p/mp4/file.mp4",
-                     "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4"],
-      "webPortals": []
+      "videoLinks": [
+        "https://video.wixstatic.com/video/e7a339_388c0c67bc074747bfabc30ef27858c5/1080p/mp4/file.mp4",
+        "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4"
+      ],
+      "webPortals": [
+        {
+          "iconUrl": "https://example.com/icons/staff1.png",
+          "linkText": "Coach Profile",
+          "externalUrl": "https://inter.it/staff/coach"
+        },
+        {
+          "iconUrl": "https://example.com/icons/staff2.png",
+          "linkText": "Medical Team",
+          "externalUrl": "https://inter.it/staff/medical"
+        },
+        {
+          "iconUrl": "https://example.com/icons/staff3.png",
+          "linkText": "Fitness Department",
+          "externalUrl": "https://inter.it/staff/fitness"
+        },
+        {
+          "iconUrl": "https://example.com/icons/staff4.png",
+          "linkText": "Technical Analysts",
+          "externalUrl": "https://inter.it/staff/analysis"
+        }
+      ]
     },
     {
       "type": "Teams",
