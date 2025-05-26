@@ -1,0 +1,172 @@
+{
+  "booths": [
+    {
+      "type": "SanSiro",
+      "videoLinks": [
+        "https://example.com/sansiro/video1.mp4",
+        "https://example.com/sansiro/video2.mp4"
+      ],
+      "webPortals": [
+        {
+          "iconUrl": "https://example.com/icons/sansiro1.png",
+          "linkText": "Stadium Overview",
+          "externalUrl": "https://inter.it/sansiro"
+        }
+      ]
+    },
+    {
+      "type": "TifoXR",
+      "videoLinks": [],
+      "webPortals": []
+    },
+    {
+      "type": "Club",
+      "videoLinks": ["https://example.com/club/intro.mp4"],
+      "webPortals": [
+        {
+          "iconUrl": "https://example.com/icons/club.png",
+          "linkText": "Club History",
+          "externalUrl": "https://inter.it/club-history"
+        }
+      ]
+    },
+    {
+      "type": "News",
+      "videoLinks": [],
+      "webPortals": [
+        {
+          "iconUrl": "https://example.com/icons/news.png",
+          "linkText": "Latest News",
+          "externalUrl": "https://inter.it/news"
+        }
+      ]
+    },
+    {
+      "type": "Lounge",
+      "videoLinks": [],
+      "webPortals": []
+    },
+    {
+      "type": "Shop",
+      "videoLinks": ["https://example.com/shop/ad.mp4"],
+      "webPortals": [
+        {
+          "iconUrl": "https://example.com/icons/shop.png",
+          "linkText": "Official Store",
+          "externalUrl": "https://store.inter.it"
+        }
+      ]
+    },
+    {
+      "type": "Partners",
+      "videoLinks": [],
+      "webPortals": [
+        {
+          "iconUrl": "https://example.com/icons/partners.png",
+          "linkText": "Our Partners",
+          "externalUrl": "https://inter.it/partners"
+        }
+      ]
+    },
+    {
+      "type": "HallOfFame",
+      "videoLinks": ["https://example.com/halloffame/tribute.mp4"],
+      "webPortals": []
+    },
+    {
+      "type": "Season",
+      "videoLinks": ["https://example.com/season/highlights.mp4"],
+      "webPortals": []
+    },
+    {
+      "type": "InterClub",
+      "videoLinks": [],
+      "webPortals": [
+        {
+          "iconUrl": "https://example.com/icons/interclub.png",
+          "linkText": "Join Inter Club",
+          "externalUrl": "https://inter.it/interclub"
+        }
+      ]
+    },
+    {
+      "type": "MadeOfInter",
+      "videoLinks": [],
+      "webPortals": []
+    },
+    {
+      "type": "ContactUs",
+      "videoLinks": [],
+      "webPortals": [
+        {
+          "iconUrl": "https://example.com/icons/contact.png",
+          "linkText": "Customer Support",
+          "externalUrl": "https://inter.it/contact"
+        }
+      ]
+    },
+    {
+      "type": "Interista",
+      "videoLinks": [],
+      "webPortals": []
+    },
+    {
+      "type": "Tickets",
+      "videoLinks": [],
+      "webPortals": [
+        {
+          "iconUrl": "https://example.com/icons/tickets.png",
+          "linkText": "Buy Tickets",
+          "externalUrl": "https://inter.it/tickets"
+        }
+      ]
+    },
+    {
+      "type": "Memorabilia",
+      "videoLinks": [],
+      "webPortals": []
+    },
+    {
+      "type": "TrophyRoom",
+      "videoLinks": ["https://example.com/trophies/intro.mp4"],
+      "webPortals": []
+    },
+    {
+      "type": "Events",
+      "videoLinks": [],
+      "webPortals": [
+        {
+          "iconUrl": "https://example.com/icons/events.png",
+          "linkText": "Upcoming Events",
+          "externalUrl": "https://inter.it/events"
+        }
+      ]
+    },
+    {
+      "type": "Staff",
+      "videoLinks": [],
+      "webPortals": []
+    },
+    {
+      "type": "Teams",
+      "videoLinks": ["https://example.com/teams/overview.mp4"],
+      "webPortals": []
+    },
+    {
+      "type": "LockerRoom",
+      "videoLinks": [],
+      "webPortals": []
+    },
+    {
+      "type": "Gallery",
+      "videoLinks": [],
+      "webPortals": [
+        {
+          "iconUrl": "https://example.com/icons/gallery.png",
+          "linkText": "Photo Gallery",
+          "externalUrl": "https://inter.it/gallery"
+        }
+      ]
+    }
+  ]
+}
