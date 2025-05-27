@@ -3,91 +3,53 @@
     {
       "type": "SanSiro",
       "videoLinks": [
-        "https://example.com/sansiro/video1.mp4",
-        "https://example.com/sansiro/video2.mp4"
-      ],
-      "webPortals": [
-        {
-          "iconUrl": "https://example.com/icons/sansiro1.png",
-          "linkText": "Stadium Overview",
-          "externalUrl": "https://inter.it/sansiro"
-        }
-      ]
+        "https://video.wixstatic.com/video/e7a339_b788af134d694d7bad7d6d0b9fa89958/480p/mp4/file.mp4"],
+      "webPortals": []
     },
     {
       "type": "TifoXR",
-      "videoLinks": [],
+      "videoLinks": ["https://video.wixstatic.com/video/e7a339_4ec7583317b94b8a8d4db365316c8dfa/1080p/mp4/file.mp4"],
       "webPortals": []
     },
     {
       "type": "Club",
-      "videoLinks": ["https://example.com/club/intro.mp4"],
-      "webPortals": [
-        {
-          "iconUrl": "https://example.com/icons/club.png",
-          "linkText": "Club History",
-          "externalUrl": "https://inter.it/club-history"
-        }
-      ]
+      "videoLinks": [],
+      "webPortals": []
     },
     {
       "type": "News",
-      "videoLinks": [],
-      "webPortals": [
-        {
-          "iconUrl": "https://example.com/icons/news.png",
-          "linkText": "Latest News",
-          "externalUrl": "https://inter.it/news"
-        }
-      ]
+      "videoLinks": ["https://video.wixstatic.com/video/e7a339_d597bc093ad94a1aa39a098442948619/720p/mp4/file.mp4"],
+      "webPortals": []
     },
     {
       "type": "Lounge",
-      "videoLinks": [],
+      "videoLinks": ["https://video.wixstatic.com/video/e7a339_82a268423b5f470e89c84f5303913a1f/720p/mp4/file.mp4"],
       "webPortals": []
     },
     {
       "type": "Shop",
-      "videoLinks": ["https://example.com/shop/ad.mp4"],
-      "webPortals": [
-        {
-          "iconUrl": "https://example.com/icons/shop.png",
-          "linkText": "Official Store",
-          "externalUrl": "https://store.inter.it"
-        }
-      ]
+      "videoLinks": ["https://video.wixstatic.com/video/e7a339_37ea4f5f57d6491abed41097da70b3eb/720p/mp4/file.mp4"],
+      "webPortals": []
     },
     {
       "type": "Partners",
-      "videoLinks": [],
-      "webPortals": [
-        {
-          "iconUrl": "https://example.com/icons/partners.png",
-          "linkText": "Our Partners",
-          "externalUrl": "https://inter.it/partners"
-        }
-      ]
+      "videoLinks": ["https://video.wixstatic.com/video/e7a339_5b2f4c36f3824922a90d2dfeb71b5d59/1080p/mp4/file.mp4"],
+      "webPortals": []
     },
     {
       "type": "HallOfFame",
-      "videoLinks": ["https://example.com/halloffame/tribute.mp4"],
+      "videoLinks": ["https://video.wixstatic.com/video/e7a339_1e6541c95bfd41d39c9e950936cb9c63/720p/mp4/file.mp4"],
       "webPortals": []
     },
     {
       "type": "Season",
-      "videoLinks": ["https://example.com/season/highlights.mp4"],
+      "videoLinks": [],
       "webPortals": []
     },
     {
       "type": "InterClub",
       "videoLinks": [],
-      "webPortals": [
-        {
-          "iconUrl": "https://example.com/icons/interclub.png",
-          "linkText": "Join Inter Club",
-          "externalUrl": "https://inter.it/interclub"
-        }
-      ]
+      "webPortals": []
     },
     {
       "type": "MadeOfInter",
@@ -97,13 +59,7 @@
     {
       "type": "ContactUs",
       "videoLinks": [],
-      "webPortals": [
-        {
-          "iconUrl": "https://example.com/icons/contact.png",
-          "linkText": "Customer Support",
-          "externalUrl": "https://inter.it/contact"
-        }
-      ]
+      "webPortals": []
     },
     {
       "type": "Interista",
@@ -113,13 +69,7 @@
     {
       "type": "Tickets",
       "videoLinks": [],
-      "webPortals": [
-        {
-          "iconUrl": "https://example.com/icons/tickets.png",
-          "linkText": "Buy Tickets",
-          "externalUrl": "https://inter.it/tickets"
-        }
-      ]
+      "webPortals": []
     },
     {
       "type": "Memorabilia",
@@ -128,52 +78,22 @@
     },
     {
       "type": "TrophyRoom",
-      "videoLinks": ["https://example.com/trophies/intro.mp4"],
+      "videoLinks": [],
       "webPortals": []
     },
     {
       "type": "Events",
       "videoLinks": [],
-      "webPortals": [
-        {
-          "iconUrl": "https://example.com/icons/events.png",
-          "linkText": "Upcoming Events",
-          "externalUrl": "https://inter.it/events"
-        }
-      ]
+      "webPortals": []
     },
     {
       "type": "Staff",
-      "videoLinks": [
-        "https://video.wixstatic.com/video/e7a339_388c0c67bc074747bfabc30ef27858c5/1080p/mp4/file.mp4",
-        "https://video.wixstatic.com/video/e7a339_cfc11c709c3143239ef7ae0a7fccd0d3/1080p/mp4/file.mp4"
-      ],
-      "webPortals": [
-        {
-          "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFyx9zaPBUqisMlWQhqEFZd9wMA3RF2dGrUw&s",
-          "linkText": "Coach Profile",
-          "externalUrl": "https://inter.it/staff/coach"
-        },
-        {
-          "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6CWqiuovLRREKOOCAtjUO8rl8VzHYpX2AZw&s",
-          "linkText": "Medical Team",
-          "externalUrl": "https://inter.it/staff/medical"
-        },
-        {
-          "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqJ5mWyzLZJTAtPvPMohfE5Ih1N_gkV7BI4g&s",
-          "linkText": "Fitness Department",
-          "externalUrl": "https://inter.it/staff/fitness"
-        },
-        {
-          "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYEqeD06sNno0feWIor8ibV3BjgVdn3NCw5A&s",
-          "linkText": "Technical Analysts",
-          "externalUrl": "https://inter.it/staff/analysis"
-        }
-      ]
+      "videoLinks": [],
+      "webPortals": []
     },
     {
       "type": "Teams",
-      "videoLinks": ["https://example.com/teams/overview.mp4"],
+      "videoLinks": [],
       "webPortals": []
     },
     {
@@ -183,14 +103,8 @@
     },
     {
       "type": "Gallery",
-      "videoLinks": [],
-      "webPortals": [
-        {
-          "iconUrl": "https://example.com/icons/gallery.png",
-          "linkText": "Photo Gallery",
-          "externalUrl": "https://inter.it/gallery"
-        }
-      ]
+      "videoLinks": ["https://video.wixstatic.com/video/e7a339_646b4448f79c4f41a9f4a7ef5403aa5f/720p/mp4/file.mp4"],
+      "webPortals": []
     }
   ]
 }
