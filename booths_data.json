@@ -2,8 +2,7 @@
   "booths": [
     {
       "type": "SanSiro",
-      "videoLinks": [
-        "https://video.wixstatic.com/video/e7a339_b788af134d694d7bad7d6d0b9fa89958/480p/mp4/file.mp4"],
+      "videoLinks": ["https://video.wixstatic.com/video/e7a339_b788af134d694d7bad7d6d0b9fa89958/480p/mp4/file.mp4"],
       "webPortals": []
     },
     {
