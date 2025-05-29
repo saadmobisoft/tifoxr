@@ -21,17 +21,17 @@
       "webPortals": [
         {
           "iconUrl": "https://static.wixstatic.com/media/e7a339_ea98188dee45473db607c2e48398cec2~mv2.jpg",
-          "linkText": "News 1",
+          "linkText": "UCL Tickets",
           "externalUrl": "https://www.inter.it/en/news/uefa-champions-league-finale-tickets-sold-out"
         },
         {
           "iconUrl": "https://static.wixstatic.com/media/e7a339_4a359b49f6914738841bc7f5d071b766~mv2.jpg",
-          "linkText": "News 2",
+          "linkText": "San Siro Big Screen",
           "externalUrl": "https://www.inter.it/en/news/big-screen-san-siro-final-champions-league-psg-inter"
         },
         {
           "iconUrl": "https://static.wixstatic.com/media/e7a339_f61f389dac044fa2b269d36dce9367a5~mv2.jpg",
-          "linkText": "News 3",
+          "linkText": "Nerazzurri at Work",
           "externalUrl": "https://www.inter.it/en/news/training-photos-inter-27-may-2025"
         }
       ]
@@ -122,17 +122,17 @@
       "webPortals": [
         {
           "iconUrl": "https://static.wixstatic.com/media/e7a339_a757dcf9cce648d7b71a81187d8be68f~mv2.jpg",
-          "linkText": "Gallery 1",
+          "linkText": "Inter Training",
           "externalUrl": "https://www.inter.it/en/news/training-photos-inter-27-may-2025"
         },
         {
           "iconUrl": "https://static.wixstatic.com/media/e7a339_3a03e7c821084815a53ca2007a04cc03~mv2.jpg",
-          "linkText": "Gallery 2",
+          "linkText": "Inter Training",
           "externalUrl": "https://www.inter.it/en/news/training-photos-inter-27-may-2025"
         },
         {
           "iconUrl": "https://static.wixstatic.com/media/e7a339_5099c96e0f7d4a15816b8c2977e28d17~mv2.jpg",
-          "linkText": "Gallery 3",
+          "linkText": "Inter Training",
           "externalUrl": "https://www.inter.it/en/news/training-photos-inter-27-may-2025"
         }
       ]
