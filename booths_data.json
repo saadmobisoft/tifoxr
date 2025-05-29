@@ -20,19 +20,19 @@
       "videoLinks": ["https://video.wixstatic.com/video/e7a339_d597bc093ad94a1aa39a098442948619/720p/mp4/file.mp4"],
       "webPortals": [
         {
-          "iconUrl": "https://static.wixstatic.com/media/e7a339_ea98188dee45473db607c2e48398cec2~mv2.jpg",
+          "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6CWqiuovLRREKOOCAtjUO8rl8VzHYpX2AZw&s",
           "linkText": "News 1",
           "externalUrl": "https://www.inter.it/en/news/uefa-champions-league-finale-tickets-sold-out"
         },
         {
           "iconUrl": "https://static.wixstatic.com/media/e7a339_4a359b49f6914738841bc7f5d071b766~mv2.jpg",
           "linkText": "News 2",
-          "externalUrl": "https://www.inter.it/en/news/uefa-champions-league-finale-tickets-sold-out"
+          "externalUrl": "https://www.inter.it/en/news/big-screen-san-siro-final-champions-league-psg-inter"
         },
         {
           "iconUrl": "https://static.wixstatic.com/media/e7a339_f61f389dac044fa2b269d36dce9367a5~mv2.jpg",
           "linkText": "News 3",
-          "externalUrl": "https://www.inter.it/en/news/uefa-champions-league-finale-tickets-sold-out"
+          "externalUrl": "https://www.inter.it/en/news/training-photos-inter-27-may-2025"
         }
       ]
     },
