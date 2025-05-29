@@ -104,28 +104,7 @@
     {
       "type": "Staff",
       "videoLinks": [],
-      "webPortals": [
-        {
-          "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFyx9zaPBUqisMlWQhqEFZd9wMA3RF2dGrUw&s",
-          "linkText": "Coach Profile",
-          "externalUrl": "https://inter.it/staff/coach"
-        },
-        {
-          "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6CWqiuovLRREKOOCAtjUO8rl8VzHYpX2AZw&s",
-          "linkText": "Medical Team",
-          "externalUrl": "https://inter.it/staff/medical"
-        },
-        {
-          "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqJ5mWyzLZJTAtPvPMohfE5Ih1N_gkV7BI4g&s",
-          "linkText": "Fitness Department",
-          "externalUrl": "https://inter.it/staff/fitness"
-        },
-        {
-          "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYEqeD06sNno0feWIor8ibV3BjgVdn3NCw5A&s",
-          "linkText": "Technical Analysts",
-          "externalUrl": "https://inter.it/staff/analysis"
-        }
-      ]
+      "webPortals": []
     },
     {
       "type": "Teams",
@@ -140,7 +119,23 @@
     {
       "type": "Gallery",
       "videoLinks": ["https://video.wixstatic.com/video/e7a339_646b4448f79c4f41a9f4a7ef5403aa5f/720p/mp4/file.mp4"],
-      "webPortals": []
+      "webPortals": [
+        {
+          "iconUrl": "https://static.wixstatic.com/media/e7a339_a757dcf9cce648d7b71a81187d8be68f~mv2.jpg",
+          "linkText": "Gallery 1",
+          "externalUrl": "https://www.inter.it/en/news/training-photos-inter-27-may-2025"
+        },
+        {
+          "iconUrl": "https://static.wixstatic.com/media/e7a339_3a03e7c821084815a53ca2007a04cc03~mv2.jpg",
+          "linkText": "Gallery 2",
+          "externalUrl": "https://www.inter.it/en/news/training-photos-inter-27-may-2025"
+        },
+        {
+          "iconUrl": "https://static.wixstatic.com/media/e7a339_5099c96e0f7d4a15816b8c2977e28d17~mv2.jpg",
+          "linkText": "Gallery 3",
+          "externalUrl": "https://www.inter.it/en/news/training-photos-inter-27-may-2025"
+        }
+      ]
     }
   ]
 }
